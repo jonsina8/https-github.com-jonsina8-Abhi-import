@@ -87,7 +87,7 @@ HOW_TO_VERIFY = environ.get('HOW_TO_VERIFY', 'https://t.me/how_to_downlodm/14') 
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'SDLinks.in')
 SHORTLINK_API = environ.get('SHORTLINK_API', '8b90e78387824726d5e1050aa7a6c4f8c47314e9')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_downlod09/7)  # Tutorial video link for opening shortlink website
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/how_to_downlod09/7')  # Tutorial video link for opening shortlink website
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 
 # ============================
