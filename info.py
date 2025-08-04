@@ -61,9 +61,9 @@ OWNER_UPI_ID = environ.get('OWNER_UPI_ID', 'ankij247@ibl')
 # ============================
 # MongoDB Configuration
 # ============================
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://kk71285631:KWuoAmrRouFPkTYB@cluster0.yvg41g8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://ankij247:0WVL5vBLEDrGIQpl@cluster0.pchrbgw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://ankij247:0WVL5vBLEDrGIQpl@cluster0.pchrbgw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_NAME = environ.get('DATABASE_NAME', "cluster")
+DATABASE_NAME = environ.get('DATABASE_NAME', "ankij247")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Deendayal_files')
 
 # ============================
